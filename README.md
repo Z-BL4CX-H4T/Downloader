@@ -19,6 +19,9 @@ Run the following command in Termux:
 pkg update && pkg upgrade
 pkg install python ffmpeg
 pip install yt-dlp colorama tqdm
+git clone https://github.com/Z-BL4CX-H4T/Downloader.git
+cd Downloader
+python2 Downloader.py
 ```
 📌 FFmpeg must be installed to convert audio to MP3.
 
@@ -28,6 +31,9 @@ Run the following command in the terminal:
 sudo apt update && sudo apt upgrade
 sudo apt install python3 python3-pip ffmpeg
 pip3 install yt-dlp colorama tqdm
+git clone https://github.com/Z-BL4CX-H4T/Downloader.git
+cd Downloader
+python2 Downloader.py
 ```
 📌 Required to support video/audio downloading and progress bar display.
 
